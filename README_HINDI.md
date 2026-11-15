@@ -36,7 +36,7 @@
 - Android: `https://play.google.com/store/apps/details?id=com.mlmbooster.mlmbooster` (मौजूदा साइट का Play Store destination)
 - Web App / iPhone: `https://app.mlmlive.in/`
 - Email: `admin@mlmlive.in`
-- Phone / WhatsApp destination: `+91 92298 85383` — मौजूदा MLMLIVE वेबसाइट से लिया गया; इस नंबर पर WhatsApp सक्रिय है या नहीं, Live Test करें।
+- Phone / WhatsApp destination: `+91 9341947815` — मौजूदा MLMLIVE वेबसाइट से लिया गया; इस नंबर पर WhatsApp सक्रिय है या नहीं, Live Test करें।
 - Privacy: `Privacy.html`
 - Terms & Conditions: `term.html`
 
